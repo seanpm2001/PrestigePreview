@@ -2,10 +2,10 @@
 //// PrestigePreview_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all PrestigePreview project repositories by @seanpm2001
-//// As of 2025, Saturday, February 1st
+//// As of 2025, Sunday, February 2nd
 
 //// ----------------------------------------------------- \\\\
-//// PrestigePreview Project (12)
+//// PrestigePreview Project (22)
 //// ----------------------------------------------------- \\\\
 
 //// PrestigePreview Core (1)
@@ -41,13 +41,38 @@ https://github.com/seanpm2001/PrestigePreview_Unity_Docs
 https://github.com/seanpm2001/PrestigePreview_UnrealEngine
 https://github.com/seanpm2001/PrestigePreview_UnrealEngine_Docs
 
+//// PrestigePreview WebGL support (2)
+
+https://github.com/seanpm2001/PrestigePreview_WebGL
+https://github.com/seanpm2001/PrestigePreview_WebGL_Docs
+
+//// PrestigePreview Java support (2)
+
+https://github.com/seanpm2001/PrestigePreview_Java
+https://github.com/seanpm2001/PrestigePreview_Java_Docs
+
+//// PrestigePreview Python support (2)
+
+https://github.com/seanpm2001/PrestigePreview_Python
+https://github.com/seanpm2001/PrestigePreview_Python_Docs
+
+//// PrestigePreview Tcl support (2)
+
+https://github.com/seanpm2001/PrestigePreview_Tcl
+https://github.com/seanpm2001/PrestigePreview_Tcl_Docs
+
+//// PrestigePreview Lua support (2)
+
+https://github.com/seanpm2001/PrestigePreview_Lua
+https://github.com/seanpm2001/PrestigePreview_Lua_Docs
+
 //// ----------------------------------------------------- \\\\
-//// Repo count (PrestigePreview): 12
-//// 1+1+2+2+2+2+2=12
+//// Repo count (PrestigePreview): 22
+//// 1+1+2+2+2+2+2+2+2+2+2+2=22
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
-//// See also (1)
+//// See also (2)
 
 //// ProTraApp (1)
 //// A software LIBrary that supports the same engines and platforms, but
@@ -56,23 +81,27 @@ https://github.com/seanpm2001/PrestigePreview_UnrealEngine_Docs
 
 https://github.com/seanpm2001/ProTraApp
 
-//// Games that support PrestigePreview (0)
+//// Games that support PrestigePreview (1)
 
-//// Nothing yet
+//// Economica (1)
+//// A clicker/tapper game similar to AdVenture Capitalist and AdVenture
+//// Communist that will support PrestigePreview
+
+https://github.com/seanpm2001/Economica
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (See also): 1
-//// 1+0=1
+//// Repo count (See also): 2
+//// 1+1=2
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 13
-//// 12+1=13
+//// Total repo count: 24
+//// 22+2=24
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 1 (2025, Saturday, February 1st at 04:56 pm PST)
-//// Line count (including blank lines and compiler line): 79
+//// File version: 2 (2025, Sunday, February 2nd at 04:29 pm PST)
+//// Line count (including blank lines and compiler line): 108
 //// ----------------------------------------------------- \\\\
 
 //// End of file
